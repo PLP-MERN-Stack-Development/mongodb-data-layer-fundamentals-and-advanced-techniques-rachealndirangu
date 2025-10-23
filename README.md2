@@ -1,0 +1,15 @@
+# MongoDB Week 1 Assignment
+
+## How to Run
+1. Make sure MongoDB is running locally on port 27017.
+2. Install dependencies:
+3. Insert book data:
+4. Run all queries:
+
+## Files
+- `insert_books.js` → Inserts initial book data.
+- `queries.js` → Contains all CRUD, aggregation, and indexing operations.
+
+## Output
+Check the console for printed query results.  
+A sample screenshot of MongoDB Compass is included in `screenshots/`.
